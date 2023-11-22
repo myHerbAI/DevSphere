@@ -15,4 +15,4 @@ Here are some of the platforms that you could use to create your open-source pro
 
 GitHub: GitHub is a popular platform for hosting open-source projects. It has a large community of developers and various features, such as code reviews and issue tracking.
 
-[![Sponsor myHerb](https://user-images.githubusercontent.com/SPONSORS/myHerb/avatar.png)](https://github.com/sponsors/myHerb)
+[![Sponsor myHerb](https://user-images.githubusercontent.com/SPONSORS/myHerb/avatar.png)](https://github.com/sponsors/myHerbai)
