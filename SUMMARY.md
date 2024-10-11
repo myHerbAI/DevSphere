@@ -1,3 +1,3 @@
 # Table of contents
 
-* [⚡ Automate Workflow with HubSpot, Mailchimp, and Customer.io via Zapier](README.md)
+* [Cloudways with myHerb; A Sustainable Hosting Experience](README.md)
