@@ -1,9 +1,9 @@
 ---
+icon: star-christmas
 description: >-
   Integrating the CleanHub API into your application involves several steps,
   including setting up your project, making API requests, and handling
   responses.
-icon: star-christmas
 cover: >-
   ../../.gitbook/assets/screenshot cleanhub Explain what is myHerb and provide
   recommendations for beginner.png
@@ -11,6 +11,10 @@ coverY: -66
 ---
 
 # How do I integrate CleanHub API?
+
+{% hint style="info" %}
+[Read the Impact Report](https://www.cleanhub.com/impact-report/myherb) to learn about the environmental activities and initiatives undertaken by myHerb in collaboration with CleanHub.
+{% endhint %}
 
 ## Here’s a detailed guide to help you get started:
 
