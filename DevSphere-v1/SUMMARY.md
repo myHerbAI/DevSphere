@@ -14,6 +14,7 @@
 
 ## Product Guides
 
+* [myAIHerb Sustainability Application](product-guides/myaiherb-sustainability-application.md)
 * [Test the website's sustainability with PageSpeed](product-guides/test-the-websites-sustainability-with-pagespeed.md)
 * [Zapier Integration for Website Sustainability Testing](product-guides/zapier-integration-for-website-sustainability-testing.md)
 * [📪 Features for Sustainable Software Development](product-guides/features-for-sustainable-software-development.md)
