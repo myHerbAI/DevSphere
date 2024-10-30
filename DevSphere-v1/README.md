@@ -45,8 +45,8 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do-at-devsphere.md" %}
-[what-we-do-at-devsphere.md](overview/what-we-do-at-devsphere.md)
+{% content-ref url="overview/what-we-do-at-devsphere/" %}
+[what-we-do-at-devsphere](overview/what-we-do-at-devsphere/)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Untitled design (2).png
+cover: ../../.gitbook/assets/Untitled design (2).png
 coverY: 146
 ---
 

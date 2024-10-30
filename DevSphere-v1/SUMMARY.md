@@ -9,7 +9,8 @@
 ## Overview
 
 * [Welcome to myHerb API Documentation](overview/welcome-to-myherb-api-documentation.md)
-* [💡 What we do at DevSphere](overview/what-we-do-at-devsphere.md)
+* [💡 What we do at DevSphere](overview/what-we-do-at-devsphere/README.md)
+  * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
