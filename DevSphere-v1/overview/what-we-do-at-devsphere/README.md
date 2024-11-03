@@ -1,9 +1,10 @@
 ---
+icon: star-christmas
 cover: ../../.gitbook/assets/Untitled design (2).png
 coverY: 146
 ---
 
-# 💡 What we do at DevSphere
+# What we do at DevSphere
 
 
 
