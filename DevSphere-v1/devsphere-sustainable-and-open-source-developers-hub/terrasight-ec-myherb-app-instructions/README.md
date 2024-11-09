@@ -4,7 +4,7 @@ description: >-
   website's carbon footprint. The application will:
 ---
 
-# TerraSight EC: myHerb App Instructions
+# SightScope: Measure Your Website's Sustainability Metrics
 
 <figure><img src="../../.gitbook/assets/sustainability futuristic computer screen myherb AI art 3.jpeg" alt=""><figcaption><p>myHerb Application: Generative AI Artwork</p></figcaption></figure>
 
