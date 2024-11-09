@@ -1,10 +1,11 @@
 # Table of contents
 
 * [👋 DevSphere - Sustainable & Open-Source Developers Hub](README.md)
-  * [TerraSight EC: myHerb App Instructions](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/README.md)
-    * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/application-code-generation-and-structure.md)
+  * [SightScope: Measure Your Website's Sustainability Metrics](devsphere-sustainable-and-open-source-developers-hub/sightscope/README.md)
+    * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/sightscope/application-code-generation-and-structure.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
   * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
+  * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](devsphere-sustainable-and-open-source-developers-hub/printless-eco-metrics-your-paper-consumption-sustainability-calculator.md)
 
 ## Overview
 
