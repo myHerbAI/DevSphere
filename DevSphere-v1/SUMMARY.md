@@ -2,7 +2,8 @@
 
 * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
 * [DevSphere - Sustainable & Open-Source Developers Hub](README.md)
-  * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](devsphere-sustainable-and-open-source-developers-hub/printless-eco-metrics-your-paper-consumption-sustainability-calculator.md)
+  * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](devsphere-sustainable-and-open-source-developers-hub/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
+    * [Structure - PrintLess Eco Metrics](devsphere-sustainable-and-open-source-developers-hub/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
   * [SightScope: Measure Your Website's Sustainability Metrics](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/README.md)
     * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/application-code-generation-and-structure.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
