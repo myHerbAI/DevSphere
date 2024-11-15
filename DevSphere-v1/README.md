@@ -1,10 +1,11 @@
 ---
 description: >-
-  Turn a Regular Code into an eco-friendly code. Or create and share a code
-  built to solve or to help minimize environmental impact. Create eco-friendly
-  solutions Sustainably.
-cover: .gitbook/assets/myHerb DevSphere Building a Database of Green Codes.png
-coverY: 60.81071211199027
+  Turn Regular Code into eco-friendly code. Create and share code built to solve
+  environmental problems or help minimize environmental impact. Create
+  eco-friendly solutions Sustainably.
+icon: rectangle-terminal
+cover: .gitbook/assets/Designer - 2024-11-03T014509.247.jpeg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -21,23 +22,27 @@ layout:
     visible: true
 ---
 
-# 👋 DevSphere - Sustainable & Open-Source Developers Hub
+# DevSphere - Sustainable & Open-Source Developers Hub
+
+### **myHerb DevSphere: Overview of the myHerb Apps & Tools Development Project**
 
 <figure><img src=".gitbook/assets/logo.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Tip:** Consider Using our [**AI Chatbot**](https://devsphere.zapier.app/ai-code-generator) built and programmed to create eco-friendly codes: minimize, use integration, automation, and more efficient workflow.
+**Tip:** Consider using our AI chatbot, built and programmed to create eco-friendly codes to minimize, use integration and automation, and create a more efficient workflow.
 {% endhint %}
 
-## Overview
 
-Here are a couple of example overviews from products with really great docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+The myHerb DevSphere project is focused on creating and enhancing applications and tools designed to improve user experience and support for herbal enthusiasts. This project aims to develop a comprehensive ecosystem that includes:
+
+1. **Mobile Applications**: Creating user-friendly mobile apps that allow users to easily access information about herbs, track their usage, and connect with a community of herbal users.
+2. **Web Tools**: Designing web-based tools that offer resources such as tutorials, articles, and databases on various herbs, their benefits, and how to use them effectively.
+3. **Integration of Features**: Incorporating recipe sharing, dosage calculators, and personalized herb recommendations based on user preferences and health goals.
+4. **Community Engagement**: Building a platform for users to share experiences, ask questions, and participate in herbal remedies and natural wellness discussions.
+5. **Research & Development**: Continuously researching the latest findings in herbal medicine and updating tools and apps accordingly to provide users with accurate and relevant information.
+
+The myHerb DevSphere project aims to promote knowledge, accessibility, and community with a sustainability shift guidance, helping individuals navigate and embrace sustainable practices.
 
 > The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
 >
