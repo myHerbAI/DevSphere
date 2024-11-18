@@ -64,7 +64,7 @@ This tool provides comprehensive metrics to promote sustainability, reduce waste
 
 * Log in to your account and navigate to the PrintLess Eco Metrics dashboard.
 * Explore the various features and start tracking your sustainability metrics.
-* Set your eco-friendly goals and monitor your progress.
+* Set your eco-friendly goals and monitor your progre
 
 <div>
 
@@ -220,10 +220,6 @@ This tool provides comprehensive metrics to promote sustainability, reduce waste
 
  
 
-<figure><img src="../../../.gitbook/assets/mission2.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../../../.gitbook/assets/mission.jpeg" alt=""><figcaption></figcaption></figure>
 
  
@@ -346,29 +342,9 @@ This tool provides comprehensive metrics to promote sustainability, reduce waste
 
 <figure><img src="../../../.gitbook/assets/Implement and Monitor.jpeg" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../../../.gitbook/assets/Build a sustainable IT infrastructure.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Designer (3)2.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Designer (3).jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Designer1.jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Designer.jpeg" alt=""><figcaption></figcaption></figure>
-
 </div>
 
-## Contributing
+### Contributing
 
 We welcome contributions from the community to enhance the PrintLess Eco Metrics application. To contribute, please follow these steps:
 
