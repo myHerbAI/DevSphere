@@ -5,14 +5,14 @@ description: >-
   businesses track and reduce their paper usage, contributing to a greener
   planet and saving costs.
 cover: >-
-  ../../.gitbook/assets/A-Designer - 2024-11-09T182945.576-PrintLess Eco
+  ../../../.gitbook/assets/A-Designer - 2024-11-09T182945.576-PrintLess Eco
   Metrics--myherb-app-01.jpeg
 coverY: 179
 ---
 
 # PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator
 
-<figure><img src="../../.gitbook/assets/A-1-Designer - 2024-11-09T183116.516-PrintLess Eco Metrics--myherb-app-01.jpeg" alt=""><figcaption><p>PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/A-1-Designer - 2024-11-09T183116.516-PrintLess Eco Metrics--myherb-app-01.jpeg" alt=""><figcaption><p>PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator</p></figcaption></figure>
 
 {% hint style="info" %}
 We are excited to unveil our new tool, designed specifically to help businesses track and reduce their paper consumption. This advanced solution aims to empower your organization while promoting sustainability.
@@ -79,7 +79,7 @@ Try the Application
 | **Total Cost Savings**        | Calculates the financial savings from reduced paper usage.                   | $2.00          | Directly impacts the budget, allowing for reinvestment in other areas. |
 | **Environmental Impact**      | Summarizes the overall environmental benefits of reduced paper consumption.  | -              | Encourages eco-friendly practices and corporate social responsibility. |
 
-<figure><img src="../../.gitbook/assets/A-1-Designer - 2024-11-09T183048.129-PrintLess Eco Metrics--myherb-app-01.jpeg" alt=""><figcaption><p>PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/A-1-Designer - 2024-11-09T183048.129-PrintLess Eco Metrics--myherb-app-01.jpeg" alt=""><figcaption><p>PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator</p></figcaption></figure>
 
 ### **Summary:**
 
@@ -99,7 +99,7 @@ By reducing paper consumption, you’ll save money and make a significant positi
 
 By adopting this tool, you'll not only contribute to a greener planet by lowering deforestation and waste but also improve your bottom line.&#x20;
 
-<figure><img src="../../.gitbook/assets/A-112-Designer - 2024-11-09T183522.887-PrintLess Eco Metrics--myherb-app-01.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/A-112-Designer - 2024-11-09T183522.887-PrintLess Eco Metrics--myherb-app-01.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Together, we can make a meaningful impact on the environment and foster a sustainable future for all. contributing to a greener planet and saving costs.

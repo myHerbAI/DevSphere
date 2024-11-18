@@ -2,10 +2,12 @@
 
 * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
 * [DevSphere - Sustainable & Open-Source Developers Hub](README.md)
-  * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](devsphere-sustainable-and-open-source-developers-hub/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
-    * [Structure - PrintLess Eco Metrics](devsphere-sustainable-and-open-source-developers-hub/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
-  * [SightScope: Measure Your Website's Sustainability Metrics](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/README.md)
-    * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/terrasight-ec-myherb-app-instructions/application-code-generation-and-structure.md)
+  * [Application & Solutions](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/README.md)
+    * [SightScope: Measure Your Website's Sustainability Metrics](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/sightscope/README.md)
+      * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/sightscope/application-code-generation-and-structure.md)
+    * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
+      * [Structure - PrintLess Eco Metrics](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
+      * [PrintLess Eco MetriX (Beta v0.13)](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
 ## Overview

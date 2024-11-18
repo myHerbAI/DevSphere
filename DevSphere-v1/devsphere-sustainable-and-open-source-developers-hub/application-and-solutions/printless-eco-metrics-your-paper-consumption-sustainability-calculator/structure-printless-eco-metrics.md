@@ -1,11 +1,11 @@
 ---
+icon: rectangle-code
 description: >-
   PrintLess Eco Metrics is a project aimed at reducing paper consumption and
   promoting eco-friendly practices. Here are some critical aspects of the
   project:
-icon: rectangle-code
 cover: >-
-  ../../.gitbook/assets/A-1-1-Designer - 2024-11-09T183609.247-PrintLess Eco
+  ../../../.gitbook/assets/A-1-1-Designer - 2024-11-09T183609.247-PrintLess Eco
   Metrics--myherb-app-01.jpeg
 coverY: 122
 ---

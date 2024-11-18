@@ -6,7 +6,7 @@ description: >-
 
 # SightScope: Measure Your Website's Sustainability Metrics
 
-<figure><img src="../../.gitbook/assets/sustainability futuristic computer screen myherb AI art 3.jpeg" alt=""><figcaption><p>myHerb Application: Generative AI Artwork</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sustainability futuristic computer screen myherb AI art 3.jpeg" alt=""><figcaption><p>myHerb Application: Generative AI Artwork</p></figcaption></figure>
 
 Here's a comprehensive plan to create a web app that tests a website's carbon footprint impact, provides results with score ratings and recommendations, and generates a report using Microsoft Sustainability Cloud and an AI chatbot.
 
