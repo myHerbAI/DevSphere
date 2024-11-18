@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
-* [DevSphere - Sustainable & Open-Source Developers Hub](README.md)
+* [DevSphere—Sustainable & Open-Source Developers Hub](README.md)
   * [Application & Solutions](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/README.md)
     * [SightScope: Measure Your Website's Sustainability Metrics](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/sightscope/README.md)
       * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/sightscope/application-code-generation-and-structure.md)
