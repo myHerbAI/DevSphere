@@ -5,4 +5,4 @@ description: data-driven Sustainability Shift Guidance.
 
 # Application & Solutions
 
-<figure><img src="../../.gitbook/assets/Designer.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Microsoft Sustainability Manager 4.jpeg" alt=""><figcaption></figcaption></figure>
