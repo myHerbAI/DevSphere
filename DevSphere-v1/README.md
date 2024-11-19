@@ -1,11 +1,11 @@
 ---
+icon: rectangle-terminal
 description: >-
   Turn Regular Code into eco-friendly code. Create and share code built to solve
   environmental problems or help minimize environmental impact. Create
   eco-friendly solutions Sustainably.
-icon: rectangle-terminal
-cover: .gitbook/assets/Designer - 2024-11-03T014509.247.jpeg
-coverY: 0
+cover: .gitbook/assets/Microsoft Sustainability Manager 4.jpeg
+coverY: 674
 layout:
   cover:
     visible: true
@@ -22,7 +22,7 @@ layout:
     visible: true
 ---
 
-# DevSphere - Sustainable & Open-Source Developers Hub
+# DevSphere—Sustainable & Open-Source Developers Hub
 
 ### **myHerb DevSphere: Overview of the myHerb Apps & Tools Development Project**
 
