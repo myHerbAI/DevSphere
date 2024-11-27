@@ -17,6 +17,7 @@
   * [Web Sustainability Checker: Optimize Your Web Impact](overview/what-we-do-at-devsphere/web-sustainability-checker-optimize-your-web-impact.md)
   * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
 * [✨ Our Features](overview/our-features.md)
+* [Unleashing the Potential of Amazon AWS and myHerb: A Path to Sustainable Growth](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
 
 ## Product Guides
 
