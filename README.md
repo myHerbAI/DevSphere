@@ -3,6 +3,9 @@ description: >-
   In today's world, sustainability is an essential aspect of any business. It is
   imperative to ensure that we minimize our carbon footprint in all aspects of
   our lives, including our online presence.
+cover: >-
+  https://images.unsplash.com/photo-1729731322082-c0a7c32229aa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ5OTA4MDV8&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Cloudways with myHerb; A Sustainable Hosting Experience
@@ -41,7 +44,7 @@ _<mark style="color:purple;">**Try Cloudways**</mark>:_ [_Click Here_](https://w
 
 ### Offers an eco-friendly solution for website hosting
 
-[Cloudways](https://www.cloudways.com/en/?id=1605417) with myHerb is a [sustainable hosting experience](https://www.cloudways.com/en/?id=1605417) that offers an eco-friendly solution to [website hosting](https://www.cloudways.com/en/?id=1605417). This platform provides businesses with a reliable, cost-effective, high-performance hosting solution that guarantees excellent customer support.&#x20;
+[Cloudways](https://www.cloudways.com/en/?id=1605417) with myHerb is a [sustainable hosting experience](https://www.cloudways.com/en/?id=1605417) that offers an eco-friendly solution to [website hosting](https://www.cloudways.com/en/?id=1605417). This platform provides businesses with a reliable, cost-effective, high-performance hosting solution that guarantees excellent customer support.
 
 By using renewable energy sources to power its servers, [Cloudways](https://www.cloudways.com/en/?id=1605417) with myHerb reduces its carbon footprint and helps to preserve the environment. If you're looking for a sustainable hosting solution, [Cloudways](https://www.cloudways.com/en/?id=1605417) with myHerb is an excellent choice.
 
@@ -51,11 +54,11 @@ By using renewable energy sources to power its servers, [Cloudways](https://www.
 
 <figure><img src=".gitbook/assets/cloudways myHerb partner 1.png" alt=""><figcaption></figcaption></figure>
 
-### Building a [Vibrant Sustainable Community](https://join.slack.com/t/myherbco/shared\_invite/zt-28z4fb1k1-vFbG\_gVtmu7cAsfWUJfGxA)
+### Building a [Vibrant Sustainable Community](https://join.slack.com/t/myherbco/shared_invite/zt-28z4fb1k1-vFbG_gVtmu7cAsfWUJfGxA)
 
 Together, [Cloudways](https://www.cloudways.com/en/?id=1605417) and myHerb are fostering a community-centric approach. They are dedicated to enriching the herbal industry's digital presence by offering educational resources, such as webinars and workshops, to support the growth of herbal entrepreneurs and enthusiasts.
 
-1. **Join myHerb community at Slack**: [Click Here](https://join.slack.com/t/myherbco/shared\_invite/zt-28z4fb1k1-vFbG\_gVtmu7cAsfWUJfGxA)
+1. **Join myHerb community at Slack**: [Click Here](https://join.slack.com/t/myherbco/shared_invite/zt-28z4fb1k1-vFbG_gVtmu7cAsfWUJfGxA)
 2. **Join myHerb web community**: [Click Here](https://myherb.zendesk.com/hc/he-il)
 
 ### A Glimpse into the Future: AI and Sustainable Insights
