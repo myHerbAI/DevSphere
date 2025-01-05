@@ -1,8 +1,8 @@
 ---
+icon: file-lines
 description: >-
   With its intuitive interface and powerful capabilities, Make.com transforms
   businesses' operations.
-icon: file-lines
 cover: .gitbook/assets/Designer - 2025-01-05T101834.746.jpeg
 coverY: 0
 ---
@@ -14,6 +14,10 @@ In today's fast-paced digital world, efficiency and productivity are paramount. 
 ### **What is** [**Make.com**](https://www.make.com/en/register?pc=myherb)**?**
 
 [Make.com](https://www.make.com/en/register?pc=myherb) is an automation software that allows users to connect apps, design workflows, and automate tasks seamlessly. Unlike traditional no-code platforms, [Make.com](https://www.make.com/en/register?pc=myherb) offers a visual approach to automation, enabling users to create complex processes quickly. Whether you're looking to streamline your sales cycle, enhance customer care, or optimize finance workflows, Make.com has you covered.
+
+
+
+<figure><img src=".gitbook/assets/Designer - 2025-01-05T103547.201.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### **Key Features**
 
@@ -28,6 +32,8 @@ In today's fast-paced digital world, efficiency and productivity are paramount. 
 * **Boost Productivity**: Automate daily workflows to prioritize key projects and drive high-quality leads.[ Make.com](https://www.make.com/en/register?pc=myherb) helps businesses close deals faster with automated lead routing and contract management.
 * **Enhance Collaboration**:[ Make.com](https://www.make.com/en/register?pc=myherb) fosters team collaboration by providing a visual language that democratizes development. Teams can work together to create robust custom solutions that scale their businesses faster than ever.
 * **Cost-Effective**: With various pricing plans, [Make.com](https://www.make.com/en/register?pc=myherb) offers affordable solutions for businesses of all sizes. The platform's cost-effectiveness ensures you can benefit from automation without breaking the bank.
+
+<figure><img src=".gitbook/assets/Designer - 2025-01-05T103553.772.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### **Real-World Impact**
 
