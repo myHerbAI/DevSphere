@@ -8,6 +8,7 @@
     * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
       * [Structure - PrintLess Eco Metrics](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
       * [PrintLess Eco MetriX (Beta v0.13)](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md)
+    * [Ec.reDucerr](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/ec.reducerr.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
 ## Overview
