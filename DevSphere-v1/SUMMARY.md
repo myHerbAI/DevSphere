@@ -2,13 +2,6 @@
 
 * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
 * [DevSphere—Sustainable & Open-Source Developers Hub](README.md)
-  * [Application & Solutions](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/README.md)
-    * [SightScope: Measure Your Website's Sustainability Metrics](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/sightscope/README.md)
-      * [Application Code Generation & Structure](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/sightscope/application-code-generation-and-structure.md)
-    * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
-      * [Structure - PrintLess Eco Metrics](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
-      * [PrintLess Eco MetriX (Beta v0.13)](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md)
-    * [Ec.reDucerr](devsphere-sustainable-and-open-source-developers-hub/application-and-solutions/ec.reducerr.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
 ## Overview
@@ -19,6 +12,17 @@
   * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
 * [✨ Our Features](overview/our-features.md)
 * [Unleashing the Potential of Amazon AWS and myHerb: A Path to Sustainable Growth](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
+
+## myHerb Applications
+
+* [myHerb Applications](myherb-applications/myherb-applications/README.md)
+  * [SightScope: Measure Your Website's Sustainability Metrics](myherb-applications/myherb-applications/sightscope/README.md)
+    * [Application Code Generation & Structure](myherb-applications/myherb-applications/sightscope/application-code-generation-and-structure.md)
+  * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
+    * [Structure - PrintLess Eco Metrics](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
+    * [PrintLess Eco MetriX (Beta v0.13)](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md)
+  * [Trimpact App for Reforestation](myherb-applications/myherb-applications/trimpact-app-for-reforestation.md)
+  * [Ec.reDucerr](myherb-applications/myherb-applications/ec.reducerr.md)
 
 ## Product Guides
 
