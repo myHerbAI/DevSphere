@@ -1,6 +1,8 @@
 ---
 description: 'Embrace Sustainable Wellness: Discover the Trimpact App by myHerb'
-cover: ../../.gitbook/assets/v0 (Trimpact 232).png
+cover: >-
+  ../../.gitbook/assets/A-11-Designer - 2024-11-09T183349.215-PrintLess Eco
+  Metrics--myherb-app-01 (1).jpeg
 coverY: 55
 ---
 
@@ -51,7 +53,7 @@ Corporate partnerships play a vital role in scaling our reforestation efforts. T
 * **Tiered Partnership Programs:** Offering detailed benefits for different levels of partnership.
 * **Contact Form:** For businesses interested in partnering with myHerb.
 
-<figure><img src="../../.gitbook/assets/v0 (Trimpact 232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A-11-Designer - 2024-11-09T183349.215-PrintLess Eco Metrics--myherb-app-01 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### 4. Updated Home Page with myHerb Logo
 

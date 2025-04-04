@@ -1,9 +1,9 @@
 ---
-icon: rectangle-terminal
 description: >-
   Turn Regular Code into eco-friendly code. Create and share code built to solve
   environmental problems or help minimize environmental impact. Create
   eco-friendly solutions Sustainably.
+icon: rectangle-terminal
 cover: .gitbook/assets/Microsoft Sustainability Manager 4.jpeg
 coverY: 674
 layout:
@@ -33,6 +33,8 @@ layout:
 {% endhint %}
 
 
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th></th><th data-type="rating" data-max="5"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>PrintLess EcoMetrics</td><td><a href="myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md">printless-eco-metrix-beta-v0.13.md</a></td><td></td><td>5</td><td><a href=".gitbook/assets/A-11-Designer - 2024-11-09T183349.215-PrintLess Eco Metrics--myherb-app-01 (1).jpeg">A-11-Designer - 2024-11-09T183349.215-PrintLess Eco Metrics--myherb-app-01 (1).jpeg</a></td></tr><tr><td>Trimpact</td><td><a href="myherb-applications/myherb-applications/trimpact-app-for-reforestation.md#trimpact-app-v0.31-beta-new-features-overview">#trimpact-app-v0.31-beta-new-features-overview</a></td><td></td><td>5</td><td><a href=".gitbook/assets/v0 (Trimpact 2332).png">v0 (Trimpact 2332).png</a></td></tr><tr><td>EcoSense</td><td><a href="myherb-applications/myherb-applications/ec.reducerr.md">ec.reducerr.md</a></td><td></td><td>5</td><td><a href=".gitbook/assets/EcoSense-Sustainable-Device-Usage-04-04-2025_12_10_PM.png">EcoSense-Sustainable-Device-Usage-04-04-2025_12_10_PM.png</a></td></tr></tbody></table>
 
 The myHerb DevSphere project is focused on creating and enhancing applications and tools designed to improve user experience and support for herbal enthusiasts. This project aims to develop a comprehensive ecosystem that includes:
 
