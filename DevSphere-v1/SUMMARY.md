@@ -21,8 +21,9 @@
   * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
     * [Structure - PrintLess Eco Metrics](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
     * [PrintLess Eco MetriX (Beta v0.13)](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md)
-  * [Trimpact App for Reforestation](myherb-applications/myherb-applications/trimpact-app-for-reforestation.md)
+  * [Trimpact Reforestation (Demo)](myherb-applications/myherb-applications/trimpact.md)
   * [Ec.reDucerr](myherb-applications/myherb-applications/ec.reducerr.md)
+  * [EcoSense App: Driving Sustainability in Software Development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development.md)
 
 ## Product Guides
 
