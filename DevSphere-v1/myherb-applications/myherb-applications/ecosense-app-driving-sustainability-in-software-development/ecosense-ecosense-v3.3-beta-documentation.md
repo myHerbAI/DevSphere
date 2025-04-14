@@ -9,7 +9,7 @@ coverY: 0
 
 # EcoSense EcoSense v3.3 BETA Documentation
 
-Whether you’re an individual user looking to lower your digital carbon footprint or a developer eager to integrate sustainability into your projects, this documentation is your guide to understanding, using, and evolving EcoSense.
+Whether you’re an individual user looking to lower your digital carbon footprint or a developer eager to integrate sustainability into your projects, this documentation is your guide to understanding, using, and evolving [EcoSense](https://ecosense.myherb.co.il).
 
 <figure><img src="../../../.gitbook/assets/Copy of v3.3 BETA (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 
 #### Overview
 
-**EcoSense v3.3 BETA** is a powerful tool that monitors device usage and energy consumption in real time. Designed with sustainability in mind, EcoSense helps you track your digital “eco footprint” offering AI-driven insights, personalized recommendations, and interactive data visualizations. Developed as part of the DevSphere initiative, this preview release invites early adopters to shape its final form with their feedback.
+[**EcoSense v3.3 BETA**](https://ecosense.myherb.co.il) is a powerful tool that monitors device usage and energy consumption in real time. Designed with sustainability in mind, [EcoSense](https://ecosense.myherb.co.il) helps you track your digital “eco footprint” offering AI-driven insights, personalized recommendations, and interactive data visualizations. Developed as part of the [DevSphere](https://sphere.myherb.co.il/) initiative, this preview release invites early adopters to shape its final form with their feedback.
 
 <figure><img src="../../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-ai-advisor-04-14-2025_03_19_PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +31,7 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 
 ## Audience
 
-### EcoSense is designed for:
+### [EcoSense](https://ecosense.myherb.co.il) is designed for:
 
 * **Eco-conscious Users:** Individuals committed to reducing their digital impact.
 * **Tech Enthusiasts:** Users curious about energy metrics and data trends.
@@ -56,7 +56,7 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 
 ### **Installation Steps**
 
-1. **Download the Installer:** Visit the myHerb website to download the latest EcoSense installer.
+1. **Download the Installer:** Visit the [myHerb](https://myherb.co.il) website to download the latest [EcoSense](https://ecosense.myherb.co.il) installer.
 2. **Run the Installer:** Follow on-screen instructions to install the application on your device.
 3. **Grant Permissions:** Allow required permissions for device data collection, smart sensor connectivity, and notifications.
 
@@ -183,7 +183,7 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 * **Setting Personal Goals:**\
   Step-by-step advice on setting realistic sustainability targets and tracking progress toward them.
 * **Third-Party Integrations:**\
-  How to sync EcoSense with other tools and smart apps for a seamless data experience.
+  How to sync [EcoSense](https://ecosense.myherb.co.il) with other tools and smart apps for a seamless data experience.
 
 ### Additional Sustainability Strategies
 
@@ -262,9 +262,9 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 
 ### Frequently Asked Questions (FAQ)
 
-* **What is EcoSense?**\
-  EcoSense is a digital tool designed to monitor and analyze device usage to help you reduce your digital environmental impact.
-* **How does EcoSense measure energy consumption?**\
+* **What is** [**EcoSense**](https://ecosense.myherb.co.il)**?**\
+  [EcoSense](https://ecosense.myherb.co.il) is a digital tool designed to monitor and analyze device usage to help you reduce your digital environmental impact.
+* **How does** [**EcoSense**](https://ecosense.myherb.co.il) **measure energy consumption?**\
   Data is gathered in real time from connected devices and sensors, processed using advanced algorithms, and displayed through interactive dashboards.
 * **I’m having issues with data sync; what should I do?**\
   Check your network, verify that all sensors are online, and use the manual sync option from the settings page.
@@ -285,22 +285,22 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 #### API Documentation
 
 * **Overview:**\
-  Our public API allows you to retrieve EcoSense metrics, manage device integrations, and customize dashboard views.
+  Our public API allows you to retrieve [EcoSense](https://ecosense.myherb.co.il) metrics, manage device integrations, and customize dashboard views.
 * **Authentication & Endpoints:**\
   Detailed instructions on setting up API keys, making RESTful calls, and integrating data into your own applications.
 * **Sample Code:**\
   Example code snippets in Python, JavaScript, and other languages to help kickstart your integration process.
 * **Integration Use Cases:**\
-  Real-world examples of integrating EcoSense data into smart home systems, third-party dashboards, and energy management tools.
+  Real-world examples of integrating [EcoSense](https://ecosense.myherb.co.il) data into smart home systems, third-party dashboards, and energy management tools.
 
 ### Customization & Extensibility Guides
 
 * **Plugin Architecture:**\
-  Documentation on how to develop plugins that extend the functionality of EcoSense, including API hooks and coding standards.
+  Documentation on how to develop plugins that extend the functionality of [EcoSense](https://ecosense.myherb.co.il), including API hooks and coding standards.
 * **Contributing Guidelines:**\
   Clear instructions on setting up the local development environment, testing your changes, and submitting pull requests.
 * **Third-Party Integrations:**\
-  Step-by-step guides for connecting EcoSense with various smart home devices, energy monitors, and external data sources.
+  Step-by-step guides for connecting [EcoSense](https://ecosense.myherb.co.il) with various smart home devices, energy monitors, and external data sources.
 
 ### Technical Deep Dive
 
@@ -334,9 +334,9 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 * **Copyright:**\
   All rights reserved by myHerb.
 * **Usage Terms:**\
-  Detailed terms of use, limitations, and licensing agreements governing EcoSense.
+  Detailed terms of use, limitations, and licensing agreements governing [EcoSense](https://ecosense.myherb.co.il).
 * **Open-Source Licenses:**\
-  Information on the open-source components used in EcoSense and guidelines for contributors.
+  Information on the open-source components used in [EcoSense](https://ecosense.myherb.co.il) and guidelines for contributors.
 
 ## Additional Resources & References
 
@@ -351,9 +351,9 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 
 ### Appendix A: Detailed Data Flow Diagrams
 
-Understanding how EcoSense processes data is crucial. Below are two detailed diagrams illustrating the end-to-end data flows.
+Understanding how [EcoSense](https://ecosense.myherb.co.il) processes data is crucial. Below are two detailed diagrams illustrating the end-to-end data flows.
 
-#### 1. Overall EcoSense Data Flow
+#### 1. Overall[ EcoSense](https://ecosense.myherb.co.il) Data Flow
 
 ```
            +----------------------------+
@@ -511,7 +511,7 @@ Sensor data is initially buffered and validated locally before being encrypted a
   Constantly seek community feedback through periodic surveys and adjust best practices as needed.
 
 {% embed url="https://ecosense.myherb.co.il" %}
-Try EcoSence by myHerb
+Try [EcoSence](https://ecosense.myherb.co.il) by myHerb
 {% endembed %}
 
 {% embed url="https://docs.zoom.us/doc/VixLO0N-TcSJs4Fri4dCFg" %}
