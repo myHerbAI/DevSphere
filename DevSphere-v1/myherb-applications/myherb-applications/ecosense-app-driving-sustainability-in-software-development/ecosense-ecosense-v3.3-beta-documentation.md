@@ -3,12 +3,15 @@ description: >-
   Welcome to the EcoSense v3.3 BETA documentation. EcoSense is our innovative
   digital companion designed to help you monitor and optimize your device usage
   in an eco-friendly manner.
+cover: ../../../.gitbook/assets/Copy of v3.3 BETA (1).png
 coverY: 0
 ---
 
 # EcoSense EcoSense v3.3 BETA Documentation
 
 Whether you’re an individual user looking to lower your digital carbon footprint or a developer eager to integrate sustainability into your projects, this documentation is your guide to understanding, using, and evolving EcoSense.
+
+<figure><img src="../../../.gitbook/assets/Copy of v3.3 BETA (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -18,19 +21,23 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 
 **EcoSense v3.3 BETA** is a powerful tool that monitors device usage and energy consumption in real time. Designed with sustainability in mind, EcoSense helps you track your digital “eco footprint” offering AI-driven insights, personalized recommendations, and interactive data visualizations. Developed as part of the DevSphere initiative, this preview release invites early adopters to shape its final form with their feedback.
 
+<figure><img src="../../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-ai-advisor-04-14-2025_03_19_PM.png" alt=""><figcaption></figcaption></figure>
+
 ### Purpose & Vision
 
 * **Sustainability Focus:** Encourage new digital behaviors to reduce energy consumption.
 * **Personalized Insights:** Provide actionable feedback based on individual usage patterns.
 * **Community-Driven Development:** Involve the eco-conscious community in a collaborative improvement process.
 
-#### Audience
+## Audience
 
 ### EcoSense is designed for:
 
 * **Eco-conscious Users:** Individuals committed to reducing their digital impact.
 * **Tech Enthusiasts:** Users curious about energy metrics and data trends.
 * **Digital Sustainability Advocates:** Professionals and hobbyists who want to integrate sustainable habits into their online and offline lifestyles.
+
+<figure><img src="../../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-ai-chatbot-assistant-04-14-2025_03_18_PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -44,6 +51,8 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 * **Browser:** Latest versions of Chrome, Firefox, Edge, or Safari.
 * **Hardware:** Modern CPU, at least 4 GB of RAM; stable Internet connection required.
 * **Connectivity:** Wi-Fi, Bluetooth, or other supported protocols for sensor data collection.
+
+<figure><img src="../../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-ai-advisor-04-14-2025_03_17_PM.png" alt=""><figcaption></figcaption></figure>
 
 ### **Installation Steps**
 
@@ -59,6 +68,8 @@ Whether you’re an individual user looking to lower your digital carbon footpri
 * **Connecting Devices:**
   * Add your digital devices (PCs, smartphones, IoT sensors) to the system.
   * Follow the guided wizard to establish sensor connectivity and verify network settings.
+
+<figure><img src="../../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-recommendations-04-14-2025_03_15_PM.png" alt=""><figcaption></figcaption></figure>
 
 ## **Dashboard Calibration**
 
@@ -86,6 +97,8 @@ Whether you’re an individual user looking to lower your digital carbon footpri
   Dashboards update dynamically with charts and graphs that let you track trends and pinpoint usage spikes.
 * **Customizable Interface:**\
   Easily configure the dashboard to show data by device, time period, or application category.
+
+<figure><img src="../../../.gitbook/assets/EcoSense-Sustainable-Device-Usage - overveiw-04-14-2025_03_14_PM.png" alt=""><figcaption></figcaption></figure>
 
 ### AI-Driven Insights & Recommendations
 
@@ -496,3 +509,10 @@ Sensor data is initially buffered and validated locally before being encrypted a
   Provide tutorials, workshops, and case studies focused on sustainable coding practices.
 * **Iterative Community Engagement:**\
   Constantly seek community feedback through periodic surveys and adjust best practices as needed.
+
+{% embed url="https://ecosense.myherb.co.il" %}
+Try EcoSence by myHerb
+{% endembed %}
+
+{% embed url="https://docs.zoom.us/doc/VixLO0N-TcSJs4Fri4dCFg" %}
+
