@@ -4,15 +4,6 @@
 * [DevSphere—Sustainable & Open-Source Developers Hub](README.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
-## Overview
-
-* [Welcome to myHerb API Documentation](overview/welcome-to-myherb-api-documentation.md)
-* [What we do at DevSphere](overview/what-we-do-at-devsphere/README.md)
-  * [Web Sustainability Checker: Optimize Your Web Impact](overview/what-we-do-at-devsphere/web-sustainability-checker-optimize-your-web-impact.md)
-  * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
-* [✨ Our Features](overview/our-features.md)
-* [Unleashing the Potential of Amazon AWS and myHerb: A Path to Sustainable Growth](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
-
 ## myHerb Applications
 
 * [myHerb Applications](myherb-applications/myherb-applications/README.md)
@@ -23,7 +14,17 @@
     * [PrintLess Eco MetriX (Beta v0.13)](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md)
   * [Trimpact Reforestation (Demo)](myherb-applications/myherb-applications/trimpact.md)
   * [Ec.reDucerr](myherb-applications/myherb-applications/ec.reducerr.md)
-  * [EcoSense App: Driving Sustainability in Software Development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development.md)
+  * [EcoSense App: Driving Sustainability in Software Development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/README.md)
+    * [EcoSense EcoSense v3.3 BETA Documentation](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/ecosense-ecosense-v3.3-beta-documentation.md)
+
+## Overview
+
+* [Welcome to myHerb API Documentation](overview/welcome-to-myherb-api-documentation.md)
+* [What we do at DevSphere](overview/what-we-do-at-devsphere/README.md)
+  * [Web Sustainability Checker: Optimize Your Web Impact](overview/what-we-do-at-devsphere/web-sustainability-checker-optimize-your-web-impact.md)
+  * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
+* [✨ Our Features](overview/our-features.md)
+* [Unleashing the Potential of Amazon AWS and myHerb: A Path to Sustainable Growth](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
 
 ## Product Guides
 
