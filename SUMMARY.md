@@ -1,4 +1,17 @@
 # Table of contents
 
-* [Cloudways with myHerb; A Sustainable Hosting Experience](README.md)
-* [Make.com: Revolutionizing Workflow Automation](make.com-revolutionizing-workflow-automation.md)
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: components
+  ```
+
+## Automation
+
+* [Make.com: Revolutionizing Workflow Automation](README.md)
+* [Cloudways with myHerb; A Sustainable Hosting Experience](automation/readme.md)
