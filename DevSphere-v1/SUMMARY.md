@@ -4,6 +4,10 @@
 * [DevSphere—Sustainable & Open-Source Developers Hub](README.md)
   * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
+## Integrations
+
+* [Shopify + CometChat Integration Technical Documentation](integrations/shopify-+-cometchat-integration-technical-documentation.md)
+
 ## myHerb Applications
 
 * [myHerb Applications](myherb-applications/myherb-applications/README.md)
