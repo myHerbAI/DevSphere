@@ -1,9 +1,9 @@
 # Table of contents
 
+* [DevSphere—Sustainable & Open-Source Developers Hub](README.md)
+  * [myHerb DevSphere Applications  Ecosystem](devsphere-sustainable-and-open-source-developers-hub/myherb-devsphere-applications-ecosystem.md)
 * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
-* [myHerb DevSphere Application Ecosystem](README.md)
-* [DevSphere—Sustainable & Open-Source Developers Hub](<README (1).md>)
-  * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
+* [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
 ## Integrations
 
