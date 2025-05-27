@@ -19,6 +19,7 @@
     * [PrintLess Eco MetriX (Beta v0.13)](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-eco-metrix-beta-v0.13.md)
   * [Trimpact Reforestation (Demo)](myherb-applications/myherb-applications/trimpact.md)
   * [Ec.reDucerr](myherb-applications/myherb-applications/ec.reducerr.md)
+  * [Documentation for EcoSense AI v11.3 (BETA)](myherb-applications/myherb-applications/documentation-for-ecosense-ai-v11.3-beta.md)
   * [EcoSense App: Driving Sustainability in Software Development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development.md)
     * [EcoSense EcoSense v3.3 BETA Documentation](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/ecosense-ecosense-v3.3-beta-documentation.md)
 
