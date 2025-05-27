@@ -5,7 +5,7 @@ description: >-
 icon: star-christmas
 cover: >-
   ../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-05-26-2025_08_20_PM.png
-coverY: 77
+coverY: 107.3969465648855
 ---
 
 # Documentation for EcoSense AI v11.3 (BETA)
