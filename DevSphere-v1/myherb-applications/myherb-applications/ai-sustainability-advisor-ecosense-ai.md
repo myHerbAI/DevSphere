@@ -1,5 +1,8 @@
 ---
 description: Official Documentation
+cover: >-
+  ../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-05-26-2025_08_20_PM.png
+coverY: 0
 ---
 
 # AI Sustainability Advisor (EcoSense AI)
@@ -60,7 +63,7 @@ At EcoSense AI, we believe that small changes in digital habits can collectively
 
 #### Installation Process
 
-1. **Download**: Visit [ecosense.ai/download](https://ecosense.ai/download) to get the appropriate version for your device.
+1. **Download**: Visit [https://eco.myherb.co.il/ai-advisor](https://eco.myherb.co.il/ai-advisor) to get the appropriate version for your device.
 2. **Install**: Run the installation package and follow the on-screen instructions.
 3. **Account Creation**: Create your EcoSense profile or log in with existing credentials.
 4. **Device Authorization**: Grant necessary permissions for the advisor to monitor usage patterns.
@@ -68,7 +71,7 @@ At EcoSense AI, we believe that small changes in digital habits can collectively
 
 #### Quick Start Guide
 
-After installation, the EcoSense AI Sustainability Advisor will begin its initial learning phase (approximately 7 days) to understand your digital habits. During this period, you'll receive basic recommendations while the AI builds your personalized sustainability profile.
+After installation, the [EcoSense AI](https://eco.myherb.co.il/ai-advisor) Sustainability Advisor will begin its initial learning phase (approximately 7 days) to understand your digital habits. During this period, you'll receive basic recommendations while the AI builds your personalized sustainability profile.
 
 ***
 
@@ -128,12 +131,12 @@ Connect with like-minded individuals and organizations committed to digital sust
 
 #### Energy Efficiency
 
-The EcoSense AI Sustainability Advisor itself is designed with minimal resource consumption:
+The [EcoSense AI Sustainability Advisor](https://eco.myherb.co.il/ai-advisor) itself is designed with minimal resource consumption:
 
 * **Local Processing**: Primary analytics performed on-device to reduce data transfer.
 * **Optimized Cloud Operations**: Server infrastructure powered by 100% renewable energy.
 * **Background Resource Usage**: <2% system resources during active monitoring.
-* **Self-regulation**: The advisor automatically scales back operations during high-demand periods.
+* **Self-regulation**: [The advisor](https://eco.myherb.co.il/ai-advisor) automatically scales back operations during high-demand periods.
 
 #### Security Framework
 
@@ -211,7 +214,7 @@ Generate comprehensive sustainability reports for personal or organizational use
 
 #### Device Ecosystem
 
-The EcoSense AI Sustainability Advisor seamlessly connects with your technology environment:
+The [EcoSense AI Sustainability Advisor](https://eco.myherb.co.il/ai-advisor) seamlessly connects with your technology environment:
 
 * **Cross-Platform Compatibility**: Unified experience across desktop, mobile, and web interfaces.
 * **IoT Device Support**: Extend monitoring to smart home devices and peripherals.
@@ -279,7 +282,7 @@ Detailed documentation available at [developer.ecosense.ai](https://developer.ec
 
 #### Data Collection
 
-The EcoSense AI Sustainability Advisor collects the following information to provide its services:
+The [EcoSense AI Sustainability Advisor](https://eco.myherb.co.il/ai-advisor) collects the following information to provide its services:
 
 * **Device Usage Patterns**: Duration and timing of device activity.
 * **Application Usage**: Which applications are used and for how long.
@@ -352,7 +355,7 @@ Additional help options:
 **Q: How accurate is the carbon footprint calculation?**\
 A: Our calculations have been validated within a ±7% margin of error against laboratory measurements and follow the latest methodologies from the Greenhouse Gas Protocol for ICT emissions.
 
-**Q: Does using the EcoSense AI Sustainability Advisor itself consume significant energy?**\
+**Q: Does using the** [**EcoSense AI Sustainability Advisor**](https://eco.myherb.co.il/ai-advisor) **itself consume significant energy?**\
 A: No, the application is designed for minimal resource consumption, typically using less than 2% of system resources during monitoring and automatically scaling back during high-demand periods.
 
 **Q: How long does it take to see meaningful results?**\
@@ -371,7 +374,7 @@ A: All data is encrypted using AES-256 standards, and our security practices are
 
 #### Technical Questions
 
-**Q: Can I use EcoSense AI Sustainability Advisor offline?**\
+**Q: Can I use** [**EcoSense AI Sustainability Advisor**](https://eco.myherb.co.il/ai-advisor) **offline?**\
 A: Basic monitoring functions work offline, but synchronization with cloud services and updated recommendations require periodic connectivity.
 
 **Q: How do I transfer my profile to a new device?**\
