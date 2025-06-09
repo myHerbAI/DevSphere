@@ -12,6 +12,7 @@
 ## myHerb Applications
 
 * [myHerb Applications](myherb-applications/myherb-applications/README.md)
+  * [EcoPrompts - Your Friendly Sustainability Community Hub 🌱](myherb-applications/myherb-applications/ecoprompts-your-friendly-sustainability-community-hub.md)
   * [SightScope: Measure Your Website's Sustainability Metrics](myherb-applications/myherb-applications/sightscope/README.md)
     * [Application Code Generation & Structure](myherb-applications/myherb-applications/sightscope/application-code-generation-and-structure.md)
   * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
