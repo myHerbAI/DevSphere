@@ -6,9 +6,11 @@ cover: ../.gitbook/assets/DevSphere dashboard myHerb Developers hub (1).png
 coverY: 301
 ---
 
-# 📪 Features for Sustainable Software Development
+# 📑 Features for Sustainable Software Development
 
-## Step 1 - **AI Eco-friendly Code generator**
+[![Sponsor myHerbDev](https://img.shields.io/badge/Sponsor-myHerbDev-ffcc00?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sponsor/myHerbDev)
+
+## **AI Eco-friendly Code generator**
 
 Generate optimized code that minimizes resource usage and energy consumption, reducing your software's environmental footprint. Example:
 
@@ -52,12 +54,29 @@ while True:
 ```
 ````
 
+#### Eco-Friendly Tree Watering Code Explanation
+
+This code snippet showcases a simple Python script designed to automate the watering of a tree based on soil moisture levels in an eco-friendly way.
+
+**Key Components:**
+
+1. **water\_tree Function:**
+   * Simulates the action of watering a tree.
+   * Prints a message indicating the commencement of watering.
+   * Includes a delay to represent the watering duration with `time.sleep(2)`.
+2. **check\_moisture\_level Function:**
+   * Monitors soil moisture to determine if the tree needs watering.
+   * Calls `get_moisture_level()` to obtain the current moisture level (assuming this function is implemented).
+   * If the moisture level falls below a set threshold (e.g., 50), the tree is watered by calling `water_tree()`.
+3. **Continuous Monitoring Loop:**
+   * The script checks the moisture level every hour using a `while True` loop combined with `time.sleep(3600)` to ensure regular hydration checks for the tree.
+
+Adjust the moisture threshold (`< 50`) based on specific tree requirements. The design assumes access to soil moisture sensor data via
+
 ### What does this code do?
 
-This code checks the soil's moisture level around the tree periodically and waters the tree if the moisture level falls below a certain threshold (in this case, 50). It then waits for an hour before checking again to avoid over-watering. Feel free to customize the code based on the specific requirements of your tree and watering system.
+This code periodically checks the soil's moisture level around the tree and waters the tree if the moisture level falls below a certain threshold (in this case, 50%).&#x20;
 
-## Step 2 - Create Post
-
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+It then waits for an hour before checking again to avoid over-watering. Feel free to customize the code based on the specific requirements of your tree and watering system.
 
 ![](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxwb3N0fGVufDB8fHx8MTY2MDU4ODAzMg\&ixlib=rb-1.2.1\&q=80)

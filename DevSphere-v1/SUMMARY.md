@@ -5,9 +5,14 @@
 * [DevSphere on myHerb](https://myherb.co.il/devsphere/)
 * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
-## Integrations
+## Overview
 
-* [Shopify + CometChat Integration Technical Documentation](integrations/shopify-+-cometchat-integration-technical-documentation.md)
+* [Welcome to myHerb API Documentation](overview/welcome-to-myherb-api-documentation.md)
+* [What we do at DevSphere](overview/what-we-do-at-devsphere/README.md)
+  * [Web Sustainability Checker: Optimize Your Web Impact](overview/what-we-do-at-devsphere/web-sustainability-checker-optimize-your-web-impact.md)
+  * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
+* [✨ Our Features](overview/our-features.md)
+* [Unleashing the Potential of Amazon AWS and myHerb: A Path to Sustainable Growth](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
 
 ## myHerb Applications
 
@@ -25,23 +30,22 @@
   * [EcoSense App: Driving Sustainability in Software Development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development.md)
     * [EcoSense EcoSense v3.3 BETA Documentation](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/ecosense-ecosense-v3.3-beta-documentation.md)
 
-## Overview
+## Integrations
 
-* [Welcome to myHerb API Documentation](overview/welcome-to-myherb-api-documentation.md)
-* [What we do at DevSphere](overview/what-we-do-at-devsphere/README.md)
-  * [Web Sustainability Checker: Optimize Your Web Impact](overview/what-we-do-at-devsphere/web-sustainability-checker-optimize-your-web-impact.md)
-  * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
-* [✨ Our Features](overview/our-features.md)
-* [Unleashing the Potential of Amazon AWS and myHerb: A Path to Sustainable Growth](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
+* [Shopify + CometChat Integration Technical Documentation](integrations/shopify-+-cometchat-integration-technical-documentation.md)
 
 ## Product Guides
 
 * [myAIHerb Sustainability Application](product-guides/myaiherb-sustainability-application.md)
 * [Test the website's sustainability with PageSpeed](product-guides/test-the-websites-sustainability-with-pagespeed.md)
 * [Zapier Integration for Website Sustainability Testing](product-guides/zapier-integration-for-website-sustainability-testing.md)
-* [📪 Features for Sustainable Software Development](product-guides/features-for-sustainable-software-development.md)
+* [📑 Features for Sustainable Software Development](product-guides/features-for-sustainable-software-development.md)
 * [TreeWise.io: Trees Planting App development](product-guides/treewise.io-trees-planting-app-development/README.md)
   * [How do I integrate CleanHub API?](product-guides/treewise.io-trees-planting-app-development/how-do-i-integrate-cleanhub-api.md)
+
+## GitHub
+
+* [A Guide for GitHub Sponsor Buttons Publishing Code Samples](github/a-guide-for-github-sponsor-buttons-publishing-code-samples.md)
 
 ## Fundamentals
 
