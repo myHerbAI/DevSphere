@@ -6,7 +6,7 @@ description: >-
 icon: rectangle-terminal
 cover: >-
   .gitbook/assets/WebInSight-AI-Powered-Website-Analysis-Optimization-06-21-2025_02_37_PM.png
-coverY: 106.74332061068705
+coverY: 197.00858778625957
 layout:
   cover:
     visible: true
