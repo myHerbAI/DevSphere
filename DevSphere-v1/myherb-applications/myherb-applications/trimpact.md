@@ -1,12 +1,13 @@
 ---
 description: 'Embrace Sustainable Wellness: Discover the Trimpact App by myHerb'
+icon: ballot-check
 cover: >-
   ../../.gitbook/assets/A-11-Designer - 2024-11-09T183349.215-PrintLess Eco
   Metrics--myherb-app-01 (1).jpeg
 coverY: 55
 ---
 
-# Trimpact App for Reforestation
+# Trimpact Reforestation (Demo)
 
 
 

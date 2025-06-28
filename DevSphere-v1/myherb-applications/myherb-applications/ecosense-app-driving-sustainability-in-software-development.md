@@ -3,6 +3,7 @@ description: >-
   EcoSense app’s ethos, technical innovation, and community-driven
   sustainability—all informed by the details available on the myHerb platforms
   and the DevSphere initiative.
+icon: ballot-check
 ---
 
 # EcoSense App: Driving Sustainability in Software Development

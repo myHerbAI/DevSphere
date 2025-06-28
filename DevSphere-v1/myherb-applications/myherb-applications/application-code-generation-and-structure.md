@@ -1,3 +1,8 @@
+---
+icon: star-christmas
+coverY: 0
+---
+
 # Application Code Generation & Structure
 
 Sure! Let’s break down the code generation into manageable parts. We’ll start with the basic structure for the front end and back end and then integrate the specific features.

@@ -2,7 +2,7 @@
 description: >-
   EcoSense AI is a cutting-edge virtual assistant dedicated to transforming your
   digital habits into eco-friendly practices.
-icon: star-christmas
+icon: ballot-check
 cover: >-
   ../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-05-26-2025_08_20_PM.png
 coverY: 107.3969465648855

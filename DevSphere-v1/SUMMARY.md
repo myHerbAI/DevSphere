@@ -21,8 +21,7 @@
   * [AI Sustainability Advisor (EcoSense AI)](myherb-applications/myherb-applications/ai-sustainability-advisor-ecosense-ai.md)
   * [EcoPrompts - Your Friendly Sustainability Community Hub 🌱](myherb-applications/myherb-applications/ecoprompts-your-friendly-sustainability-community-hub.md)
   * [EcoPrompts Documentation](myherb-applications/myherb-applications/ecoprompts-documentation.md)
-  * [SightScope: Measure Your Website's Sustainability Metrics](myherb-applications/myherb-applications/sightscope/README.md)
-    * [Application Code Generation & Structure](myherb-applications/myherb-applications/sightscope/application-code-generation-and-structure.md)
+  * [SightScope: Measure Your Website's Sustainability Metrics](myherb-applications/myherb-applications/sightscope.md)
   * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
     * [Structure - PrintLess Eco Metrics](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
     * [PrintLess EcoMetrics (Update Beta v0.13)](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-ecometrics-update-beta-v0.13.md)
@@ -32,6 +31,7 @@
   * [Documentation for EcoSense AI v11.3 (BETA)](myherb-applications/myherb-applications/documentation-for-ecosense-ai-v11.3-beta.md)
   * [EcoSense App: Driving Sustainability in Software Development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development.md)
     * [EcoSense EcoSense v3.3 BETA Documentation](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/ecosense-ecosense-v3.3-beta-documentation.md)
+  * [Application Code Generation & Structure](myherb-applications/myherb-applications/application-code-generation-and-structure.md)
 
 ## Integrations
 

@@ -1,4 +1,5 @@
 ---
+icon: ballot-check
 cover: ../../.gitbook/assets/_743ffa56-4398-4999-9035-f2ebc988ddb0.jpeg
 coverY: 0
 ---

@@ -2,6 +2,7 @@
 description: >-
   it's a warm, welcoming community where sustainability enthusiasts come
   together to share brilliant ideas and make a real difference!
+icon: ballot-check
 cover: ../../.gitbook/assets/Make.com environmental management programs.png
 coverY: 0
 ---

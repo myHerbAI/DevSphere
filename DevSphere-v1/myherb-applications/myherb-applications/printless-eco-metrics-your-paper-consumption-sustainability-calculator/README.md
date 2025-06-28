@@ -3,6 +3,7 @@ description: >-
   At myHerb.co.il, we’re excited to launch our latest tool, designed to help
   businesses track and reduce their paper usage, contributing to a greener
   planet and saving costs.
+icon: ballot-check
 cover: >-
   ../../../.gitbook/assets/A-Designer - 2024-11-09T182945.576-PrintLess Eco
   Metrics--myherb-app-01.jpeg

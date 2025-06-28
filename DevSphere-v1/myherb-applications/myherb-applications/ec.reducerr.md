@@ -1,6 +1,6 @@
 ---
 description: 'myHerb''s EC.reDucerr: Your Pocket-Sized Guide to a Greener Digital Life.'
-icon: lightbulb-exclamation-on
+icon: ballot-check
 cover: ../../.gitbook/assets/green shift to sustainability.jpeg
 coverY: 0
 ---

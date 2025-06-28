@@ -3,6 +3,7 @@ description: >-
   Welcome to the EcoSense v3.3 BETA documentation. EcoSense is our innovative
   digital companion designed to help you monitor and optimize your device usage
   in an eco-friendly manner.
+icon: star-christmas
 cover: ../../../.gitbook/assets/Copy of v3.3 BETA (1).png
 coverY: 0
 ---

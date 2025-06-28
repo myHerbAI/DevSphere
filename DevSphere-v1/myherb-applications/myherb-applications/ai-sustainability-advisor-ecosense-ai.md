@@ -1,5 +1,6 @@
 ---
 description: Official Documentation
+icon: ballot-check
 cover: >-
   ../../.gitbook/assets/EcoSense-Sustainable-Device-Usage-05-26-2025_08_20_PM.png
 coverY: 0
