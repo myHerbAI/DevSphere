@@ -3,20 +3,6 @@ description: Welcome to the official documentation for the myHerb API.
 icon: unity
 cover: ../.gitbook/assets/Designer (22).jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome to myHerb API Documentation

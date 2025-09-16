@@ -7,20 +7,6 @@ icon: rectangle-terminal
 cover: >-
   .gitbook/assets/WebInSight-AI-Powered-Website-Analysis-Optimization-06-21-2025_02_37_PM.png
 coverY: 197.00858778625957
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # DevSphere—Sustainable & Open-Source Developers Hub

@@ -2,20 +2,6 @@
 icon: display-code
 cover: ../../.gitbook/assets/_6d620e7b-eac2-4403-ac5b-4ec758b0281c.jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # myHerb Applications
