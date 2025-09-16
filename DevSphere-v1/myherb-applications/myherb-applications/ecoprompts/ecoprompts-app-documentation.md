@@ -1,11 +1,11 @@
 ---
 icon: ballot-check
 cover: >-
-  ../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_18_PM.png
+  ../../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_18_PM.png
 coverY: 171.4893617021276
 ---
 
-# EcoPrompts Documentation
+# EcoPrompts App Documentation
 
 ## Overview
 
@@ -25,7 +25,7 @@ While the page doesn’t go into deep detail about EcoPrompts specifically, its 
 * Encourage sustainable practices in form building, report generation, or document management
 * Align with myHerb’s overall emphasis on promoting green, efficient, and nature-inspired technologies
 
-<figure><img src="../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_18_PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_18_PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Purpose
 
@@ -61,7 +61,7 @@ By aligning form generation with environmentally responsible practices, EcoPromp
 * Suggests language, tone, and form that align with sustainability principles.
 * Promotes digital-first strategies to cut back on physical resource reliance.
 
-<figure><img src="../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_32_PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_32_PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Benefits
 
@@ -97,7 +97,7 @@ To begin using EcoPrompts:
 
 Think of them as AI-powered nudges that help you “go green” without sacrificing efficiency. Want to imagine how they’d look inside your next project or app flow? I’d love to help you map it out 🌎📲
 
-<figure><img src="../../.gitbook/assets/EcoPrompts-myHerb-06-28-2025_05_33_PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EcoPrompts-myHerb-06-28-2025_05_33_PM.png" alt=""><figcaption></figcaption></figure>
 
 ## 🌿 Additional Use Case Examples for EcoPrompts
 
@@ -131,7 +131,7 @@ Think of them as AI-powered nudges that help you “go green” without sacrific
 * **Green Property Checklists**: Smart PDFs for evaluating homes based on eco-efficiency (solar, insulation, smart appliances).
 * **Sustainable City Planning Feedback**: Forms inviting input on zoning, green infrastructure, or mobility proposals.
 
-<figure><img src="../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_34_PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_34_PM.png" alt=""><figcaption></figcaption></figure>
 
 ## 🎓 EcoPrompts in Education: Smart, Sustainable Learning
 
@@ -169,7 +169,7 @@ Think of them as AI-powered nudges that help you “go green” without sacrific
 
 Whether it’s supporting green clubs or reducing campus printing, EcoPrompts makes sustainability feel accessible—and even fun—in schools.
 
-<figure><img src="../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_36_PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EcoPrompts-Sustainability-Prompt-Bank-06-28-2025_05_36_PM.png" alt=""><figcaption></figcaption></figure>
 
 ## ✅ Steps to Implement EcoPrompts Effectively
 

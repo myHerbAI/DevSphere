@@ -19,8 +19,8 @@
 
 * [myHerb Applications](myherb-applications/myherb-applications/README.md)
   * [AI Sustainability Advisor (EcoSense AI)](myherb-applications/myherb-applications/ai-sustainability-advisor-ecosense-ai.md)
-  * [EcoPrompts - Sustainability Prompts Bank](myherb-applications/myherb-applications/ecoprompts.md)
-  * [EcoPrompts App Documentation](myherb-applications/myherb-applications/ecoprompts-app-documentation.md)
+  * [EcoPrompts - Sustainability Prompts Bank](myherb-applications/myherb-applications/ecoprompts/README.md)
+    * [EcoPrompts App Documentation](myherb-applications/myherb-applications/ecoprompts/ecoprompts-app-documentation.md)
   * [SightScope: Measure Your Website's Sustainability Metrics](myherb-applications/myherb-applications/sightscope.md)
   * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
     * [Structure - PrintLess Eco Metrics](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)

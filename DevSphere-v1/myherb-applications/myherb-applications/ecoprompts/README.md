@@ -3,7 +3,7 @@ description: >-
   it's a warm, welcoming community where sustainability enthusiasts come
   together to share brilliant ideas and make a real difference!
 icon: ballot-check
-cover: ../../.gitbook/assets/Microsoft Sustainability Manager 4.jpeg
+cover: ../../../.gitbook/assets/Microsoft Sustainability Manager 4.jpeg
 coverY: 0
 ---
 
@@ -15,6 +15,8 @@ coverY: 0
 
 **Website:** [https://prompts.myherb.co.il/](https://prompts.myherb.co.il/), [https://www.myherb.co.il/ecoprompts](https://www.myherb.co.il/ecoprompts)\
 **What We're About:** EcoPrompts - Your go-to Sustainability Prompt Bank
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="https://prompts.myherb.co.il/">EcoPrompts</a></td><td><a href="ecoprompts-app-documentation.md">ecoprompts-app-documentation.md</a></td><td><a href="../../../.gitbook/assets/_4e87df01-0356-44ab-95bd-340a2c740610.jpeg">_4e87df01-0356-44ab-95bd-340a2c740610.jpeg</a></td></tr></tbody></table>
 
 {% hint style="success" %}
 **Our Motto:** "Ignite Your Green Impact. Discover, share, and collaborate on prompts to drive sustainability forward. Your next big idea starts here!"
