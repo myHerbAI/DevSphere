@@ -7,7 +7,7 @@ icon: grid-2-plus
 
 16.09.2025 / by Aaron Levin ([myHerb](https://www.myherb.co.il/))
 
-{% embed url="https://prompts.myherb.co.il" %}
+{% embed url="https://myherb.co.il/ecoprompts" %}
 
 A comprehensive and high-quality prompt database is the heart of the EcoPrompts platform. I will expand the database with a variety of professional prompts that cover trendy and important topics in sustainability, all crafted using the best practices we've outlined in the resources page.
 
