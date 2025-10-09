@@ -40,6 +40,7 @@
 
 ## Product Guides
 
+* [Deep Research Analysis: Case Studies of myHerb](product-guides/deep-research-analysis-case-studies-of-myherb.md)
 * [EcoSense - Sustainable Device Usage](product-guides/ecosense-sustainable-device-usage.md)
 * [myAIHerb Sustainability Application](product-guides/myaiherb-sustainability-application.md)
 * [Test the website's sustainability with PageSpeed](product-guides/test-the-websites-sustainability-with-pagespeed.md)
