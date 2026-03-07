@@ -33,6 +33,7 @@
     * [EcoSense EcoSense v3.3 BETA Documentation](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/ecosense-ecosense-v3.3-beta-documentation.md)
   * [Application Code Generation & Structure](myherb-applications/myherb-applications/application-code-generation-and-structure.md)
 * [EcoPrompts - Sustainability Prompt Bank (Updates)](myherb-applications/ecoprompts-sustainability-prompt-bank-updates.md)
+* [EcoShift – Terms & Conditions](myherb-applications/ecoshift-terms-and-conditions.md)
 
 ## Integrations
 
