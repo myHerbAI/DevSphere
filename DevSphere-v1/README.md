@@ -11,6 +11,28 @@ coverY: 197.00858778625957
 
 # DevSphere—Sustainable & Open-Source Developers Hub
 
+{% hint style="info" %}
+**Tool status — 3 November 2026.** The tools below have different inputs and limits. A calculator result is an estimate; an article or prompt is guidance. None of the checks described here establishes a measured environmental saving.
+{% endhint %}
+
+## Current tools
+
+| Tool | What it does | What to know before using it |
+| --- | --- | --- |
+| [WebInSight](https://insight.myherb.co.il/) | Inspects a public page’s initial HTML and response headers, exports reports, compares hosting entries and prepares editable writing outlines. | Account saving and AI drafting are temporarily unavailable. This inspection does not measure browser load speed, energy use, carbon emissions or full accessibility. |
+| [PrintLess EcoMetrics](https://ecometrics.myherb.co.il/) | Compares paper-use scenarios and costs, with CSV export and records saved in your browser. | Enter your own assumptions. Keep an exported copy of records you need; browser storage is local. The website analyzer is unavailable. |
+| [EcoShift](https://ecoshift.myherb.co.il/) | Estimates household scenarios using entered values and documented factors, with guidance and history export. | Results depend on the units, location, period and assumptions shown. AI guidance has a separate, explicitly identified fallback. |
+| [Sustainability Knowledge Base](https://knowledge.myherb.co.il/) | Provides 30 topic guides with primary-source references and downloadable PDFs. | Follow the references for context and applicability. A guide is not an assessment of your own project. |
+| [EcoPrompts](https://prompts.myherb.co.il/) | Provides 15 preserved public examples with copy/share controls, plus an account-based community submission and review workflow. | Public examples are readable without an account. Community activity requires the relevant account checks; the restored production account/reviewer journey is still being verified. Category suggestions may use a disclosed keyword fallback. |
+| [GreenLine](https://www.myherb.co.il/solutions/greenline) | Opens the existing product-design interface. | Reliable sourced answers and access to the original editable implementation are unresolved. Treat its output as unverified. |
+
+The code, forms and hosted pages are checked separately. Passing a page-load check does not establish that every account, integration or calculation works. The EcoPrompts editor repair is published; the production reviewer and verified-account journeys still need their own acceptance checks.
+
+## Original project overview
+
+The following text and cards preserve the earlier project descriptions and roadmap. Feature lists, star fields and stage labels below are historical documentation, not current usage measurements, customer ratings or proof of a working release. In particular, the descriptions of automatic carbon tracking, live resource monitoring, community services and integrations need separate implementation evidence. The `devsphere.dev` destinations below have not been established as MyHerb-owned services. WebInSight and Trimpact also require their own current end-to-end checks.
+
+
 ### **myHerb DevSphere: Overview of the myHerb Apps & Tools Development Project**
 
 Going Green in the Digital World: How DevSphere is Revolutionising Sustainable Software Development
