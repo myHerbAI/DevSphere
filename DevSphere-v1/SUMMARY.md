@@ -2,7 +2,7 @@
 
 * [DevSphere—Sustainable & Open-Source Developers Hub](README.md)
   * [myHerb DevSphere Applications  Ecosystem](devsphere-sustainable-and-open-source-developers-hub/myherb-devsphere-applications-ecosystem.md)
-* [DevSphere on myHerb](https://myherb.co.il/devsphere/)
+* [DevSphere on myHerb](https://www.myherb.co.il/solutions)
 * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
 ## Overview
