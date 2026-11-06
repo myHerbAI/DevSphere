@@ -8,9 +8,11 @@ icon: ballot-check
 
 # EcoSense App: Driving Sustainability in Software Development
 
+> [Open EcoSense](https://eco.myherb.co.il/) · Original EcoSense project guide
+
 ## Abstract / Introduction
 
-The [EcoSense App](https://ecosense.myherb.co.il) is a groundbreaking open‑source initiative by myHerb, developed under the umbrella of the DevSphere initiative. It champions sustainable software development by offering developers a suite of educational tools, performance measurements, and best practices centered on reducing environmental impact. Every line of code is crafted with the broader vision of eco‑efficiency in mind, merging the need for innovative technology with the imperative of safeguarding our planet.
+The [EcoSense App](https://eco.myherb.co.il/) is a groundbreaking open‑source initiative by myHerb, developed under the umbrella of the DevSphere initiative. It champions sustainable software development by offering developers a suite of educational tools, performance measurements, and best practices centered on reducing environmental impact. Every line of code is crafted with the broader vision of eco‑efficiency in mind, merging the need for innovative technology with the imperative of safeguarding our planet.
 
 ***
 
@@ -34,7 +36,7 @@ The [EcoSense App](https://ecosense.myherb.co.il) is a groundbreaking open‑sou
 
 ### 1. Introduction
 
-In today's digital landscape, technology and sustainability have become inseparable. As the world increasingly relies on software to solve complex problems, the environmental impact of digital solutions comes under close scrutiny. The [EcoSense App](https://ecosense.myherb.co.il) stands as a pioneering initiative—a tool designed not only to streamline and improve code quality but also to guide developers toward practices that conserve resources and reduce energy consumption.&#x20;
+In today's digital landscape, technology and sustainability have become inseparable. As the world increasingly relies on software to solve complex problems, the environmental impact of digital solutions comes under close scrutiny. The [EcoSense App](https://eco.myherb.co.il/) stands as a pioneering initiative—a tool designed not only to streamline and improve code quality but also to guide developers toward practices that conserve resources and reduce energy consumption.&#x20;
 
 In doing so, it creates a bridge between innovation and environmental stewardship .
 
@@ -42,13 +44,13 @@ In doing so, it creates a bridge between innovation and environmental stewardshi
 
 ### 2. Background and Vision
 
-Developed as part of myHerb’s expansive DevSphere initiative, the [EcoSense App](https://ecosense.myherb.co.il) emerged from the need to address the environmental ramifications of modern software development. The vision behind [EcoSense](https://ecosense.myherb.co.il) is multifaceted:
+Developed as part of myHerb’s expansive DevSphere initiative, the [EcoSense App](https://eco.myherb.co.il/) emerged from the need to address the environmental ramifications of modern software development. The vision behind [EcoSense](https://eco.myherb.co.il/) is multifaceted:
 
 * **Environmental Responsibility:** To minimize the digital carbon footprint by fostering energy‑efficient and resource‑optimized coding practices.
 * **Educational Empowerment:** To provide developers with accessible, reliable, and actionable guidelines on how to integrate sustainability in every development stage.
 * **Community-Driven Innovation:** To encourage collaboration among developers who share a common goal of innovating responsibly.
 
-By aligning technical prowess with sustainability, [EcoSense](https://ecosense.myherb.co.il) sets the stage for a future where every technological advancement is measured not just by performance but also by its environmental impact .
+By aligning technical prowess with sustainability, [EcoSense](https://eco.myherb.co.il/) sets the stage for a future where every technological advancement is measured not just by performance but also by its environmental impact .
 
 ***
 
@@ -56,7 +58,7 @@ By aligning technical prowess with sustainability, [EcoSense](https://ecosense.m
 
 #### 3.1 Sustainability Hub & Educational Resources
 
-At its core, [EcoSense](https://ecosense.myherb.co.il) serves as a **Sustainability Hub**—a centralized repository of knowledge and best practices for eco‑friendly software development. Here, developers gain insight into:
+At its core, [EcoSense](https://eco.myherb.co.il/) serves as a **Sustainability Hub**—a centralized repository of knowledge and best practices for eco‑friendly software development. Here, developers gain insight into:
 
 * **Energy‑efficient coding techniques:** Strategies to write leaner, faster, and less resource-intensive code.
 * **Green cloud computing practices:** Guidelines on reducing energy consumption within cloud infrastructures.
@@ -66,7 +68,7 @@ This hub not only educates but also empowers developers to integrate sustainabil
 
 #### 3.2 Developer Tools & Modules
 
-Complementing its educational mission, [EcoSense](https://ecosense.myherb.co.il) provides a suite of developer tools designed for real-world application:
+Complementing its educational mission, [EcoSense](https://eco.myherb.co.il/) provides a suite of developer tools designed for real-world application:
 
 * **Benchmarking Modules:** Tools that measure code efficiency, energy consumption, CPU usage, and memory optimization.
 * **Performance Analytics:** Early stage features that provide actionable insights into how developers can adjust their code for improved sustainability.
@@ -78,34 +80,34 @@ These tools are purpose-built to serve as both diagnostic and prescriptive aids,
 
 EcoSense celebrates the power of community through its open‑source model:
 
-* **GitHub Repository:** By hosting the project on GitHub, [EcoSense](https://ecosense.myherb.co.il) invites developers worldwide to contribute with pull requests, issue analyses, and feature suggestions.
+* **GitHub Repository:** By hosting the project on GitHub, [EcoSense](https://eco.myherb.co.il/) invites developers worldwide to contribute with pull requests, issue analyses, and feature suggestions.
 * **Collaborative Forums:** Open discussions and documentation foster an environment where ideas can flourish and critical feedback drives continuous improvement.
 * **Shared Best Practices:** The platform is a living document, constantly evolving as contributors infuse fresh perspectives on sustainability and performance.
 
-The collective knowledge and passion of the developer community have been and will continue to be the driving force behind [EcoSense](https://ecosense.myherb.co.il)’s evolution .
+The collective knowledge and passion of the developer community have been and will continue to be the driving force behind [EcoSense](https://eco.myherb.co.il/)’s evolution .
 
 #### 3.4 Integration within the DevSphere Ecosystem
 
-[EcoSense](https://ecosense.myherb.co.il) is not a standalone project; it is intricately woven into the fabric of the DevSphere ecosystem—an expansive network of eco-friendly codes, applications, and collaborative tools that share a common goal:
+[EcoSense](https://eco.myherb.co.il/) is not a standalone project; it is intricately woven into the fabric of the DevSphere ecosystem—an expansive network of eco-friendly codes, applications, and collaborative tools that share a common goal:
 
 * **Interoperability:** Seamless integration with other DevSphere projects enhances overall functionality and enables a holistic approach to sustainable development.
 * **Shared Resources:** Knowledge, resources, and innovations are continuously exchanged within the ecosystem, multiplying the impact of eco-friendly practices.
 * **Unified Vision:** Every project within DevSphere reinforces the idea that sustainability and technology can, and should, advance hand in hand.
 
-This interconnected infrastructure ensures that [EcoSense](https://ecosense.myherb.co.il) remains not only innovative but also adaptive to the rapidly evolving demands of sustainable development .
+This interconnected infrastructure ensures that [EcoSense](https://eco.myherb.co.il/) remains not only innovative but also adaptive to the rapidly evolving demands of sustainable development .
 
 ***
 
 ### 4. Technical Architecture and Implementation
 
-The technical foundation of [EcoSense](https://ecosense.myherb.co.il) reflects its sustainable mission through a modular, scalable design optimized for minimal resource consumption. Key technical aspects include:
+The technical foundation of [EcoSense](https://eco.myherb.co.il/) reflects its sustainable mission through a modular, scalable design optimized for minimal resource consumption. Key technical aspects include:
 
 * **Energy‑Efficient Framework:** A lightweight architecture that minimizes overhead and maximizes performance, ensuring that every function is optimized for energy efficiency.
 * **Modular Codebase:** Components are designed to be interchangeable and independently upgradeable—supporting continuous integration of new eco‑friendly features without overhauling the entire system.
 * **Cloud Integration:** The app is built to support green cloud computing practices, integrating seamlessly with sustainable cloud services that prioritize renewable energy.
 * **Visual Documentation:** Detailed flowcharts and architectural diagrams (available in supplementary materials) help developers visualize data flows and resource optimization strategies.
 
-This robust technical framework positions [EcoSense](https://ecosense.myherb.co.il) as not only a tool for today but a forward‑thinking platform built to adapt and grow sustainably into the future .
+This robust technical framework positions [EcoSense](https://eco.myherb.co.il/) as not only a tool for today but a forward‑thinking platform built to adapt and grow sustainably into the future .
 
 ***
 
