@@ -16,14 +16,14 @@ coverY: 197.00858778625957
 | Development | What is new |
 | --- | --- |
 | **WebInSight (Public beta)** | Check page speed, data use, accessibility and search setup on mobile and desktop. Follow repair steps tied to specific files and page elements, then recheck the same page. |
-| **EcoSense Document Review (In development)** | Review sustainability reports and supporting files together, trace figures to source passages or spreadsheet cells, record corrections, and export a review memo, evidence workbook or metrics CSV. |
+| **EcoSense (In development)** | Bring sustainability reports, utility bills, certificates, spreadsheets and supporting files into one private review. Trace findings to source pages or cells, correct extracted figures, ask questions across the case, and export evidence-backed review files. |
 
 ## Current tools
 
 | Tool | What you can do |
 | --- | --- |
 | [WebInSight](https://insight.myherb.co.il/) | Audit a page on mobile and desktop, see the files and elements behind the findings, follow the repair steps, then rescan to check the result. |
-| [EcoSense: Device Use Beta](https://eco.myherb.co.il/) | Enter screen-time and energy-use figures for a selected day and week, build a report, and explore source-backed habits and advice. |
+| [EcoSense](https://eco.myherb.co.il/) | Review sustainability documents as one case, verify figures against their source, save corrections and review history, ask questions across the evidence, and export structured review files. |
 | [PrintLess EcoMetrics](https://ecometrics.myherb.co.il/) | Compare paper use and costs across different scenarios and export the results. |
 | [EcoShift](https://ecoshift.myherb.co.il/) | Compare household choices using your own figures. |
 | [Sustainability Knowledge Base](https://knowledge.myherb.co.il/) | Read sustainability guides and download PDF copies. |
