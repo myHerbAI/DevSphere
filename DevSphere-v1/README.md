@@ -11,12 +11,19 @@ coverY: 197.00858778625957
 
 # DevSphere—Sustainable & Open-Source Developers Hub
 
+## Recent development
+
+| Development | What is new |
+| --- | --- |
+| **WebInSight (Public beta)** | Check page speed, data use, accessibility and search setup on mobile and desktop. Follow repair steps tied to specific files and page elements, then recheck the same page. |
+| **EcoSense Document Review (In development)** | Review sustainability reports and supporting files together, trace figures to source passages or spreadsheet cells, record corrections, and export a review memo, evidence workbook or metrics CSV. |
+
 ## Current tools
 
 | Tool | What you can do |
 | --- | --- |
-| [WebInSight](https://insight.myherb.co.il/) | Check a website, see what to fix first, and copy a prompt for your developer or AI assistant. |
-| [EcoSense](https://eco.myherb.co.il/) | Enter your device usage, review your habits, and explore ways to use your devices more efficiently. |
+| [WebInSight](https://insight.myherb.co.il/) | Audit a page on mobile and desktop, see the files and elements behind the findings, follow the repair steps, then rescan to check the result. |
+| [EcoSense: Device Use Beta](https://eco.myherb.co.il/) | Enter screen-time and energy-use figures for a selected day and week, build a report, and explore source-backed habits and advice. |
 | [PrintLess EcoMetrics](https://ecometrics.myherb.co.il/) | Compare paper use and costs across different scenarios and export the results. |
 | [EcoShift](https://ecoshift.myherb.co.il/) | Compare household choices using your own figures. |
 | [Sustainability Knowledge Base](https://knowledge.myherb.co.il/) | Read sustainability guides and download PDF copies. |
