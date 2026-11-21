@@ -1,66 +1,66 @@
 # Table of contents
 
-* [DevSphere—Sustainable & Open-Source Developers Hub](README.md)
-  * [myHerb DevSphere Applications  Ecosystem](devsphere-sustainable-and-open-source-developers-hub/myherb-devsphere-applications-ecosystem.md)
+* [DevSphere by MyHerb](README.md)
+  * [MyHerb tools and development](devsphere-sustainable-and-open-source-developers-hub/myherb-devsphere-applications-ecosystem.md)
 * [DevSphere on myHerb](https://www.myherb.co.il/solutions)
 * [DevSphere on GitHub](https://github.com/myHerbDev/DevSphere/discussions)
 
 ## Overview
 
-* [Research Report for myHerb with WebInSights (AI App)](overview/research-report-for-myherb-with-webinsights-ai-app.md)
-* [Welcome to myHerb API Documentation](overview/welcome-to-myherb-api-documentation.md)
+* [How to compare two website audits](overview/research-report-for-myherb-with-webinsights-ai-app.md)
+* [Using the MyHerb tools](overview/welcome-to-myherb-api-documentation.md)
 * [What we do at DevSphere](overview/what-we-do-at-devsphere/README.md)
-  * [Web Sustainability Checker: Optimize Your Web Impact](overview/what-we-do-at-devsphere/web-sustainability-checker-optimize-your-web-impact.md)
-  * [myAIHerb Beta v0.11 Application is \[Under Construction\]](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
-* [✨ Our Features](overview/our-features.md)
-* [Unleashing the Potential of Amazon AWS and myHerb: A Path to Sustainable Growth](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
+  * [Check a website with WebInSight](overview/what-we-do-at-devsphere/web-sustainability-checker-optimize-your-web-impact.md)
+  * [Explore myHerbAI](overview/what-we-do-at-devsphere/myaiherb-beta-v0.11-application-is-under-construction.md)
+* [What you can check](overview/our-features.md)
+* [Choosing a hosting region and service](overview/unleashing-the-potential-of-amazon-aws-and-myherb-a-path-to-sustainable-growth.md)
 
-## myHerb Applications
+## MyHerb applications
 
-* [myHerb Applications](myherb-applications/myherb-applications/README.md)
-  * [AI Sustainability Advisor (EcoSense AI)](myherb-applications/myherb-applications/ai-sustainability-advisor-ecosense-ai.md)
-  * [EcoPrompts - Sustainability Prompts Bank](myherb-applications/myherb-applications/ecoprompts/README.md)
-    * [EcoPrompts App Documentation](myherb-applications/myherb-applications/ecoprompts/ecoprompts-app-documentation.md)
-  * [SightScope: Measure Your Website's Sustainability Metrics](myherb-applications/myherb-applications/sightscope.md)
-  * [PrintLess Eco Metrics: Your Paper Consumption Sustainability Calculator](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
-    * [Structure - PrintLess Eco Metrics](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
-    * [PrintLess EcoMetrics (Update Beta v0.13)](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-ecometrics-update-beta-v0.13.md)
-  * [AI Sustainability Coach](myherb-applications/myherb-applications/ai-sustainability-coach.md)
-  * [Trimpact Reforestation (Demo)](myherb-applications/myherb-applications/trimpact.md)
-  * [Ec.reDucerr](myherb-applications/myherb-applications/ec.reducerr.md)
-  * [Documentation for EcoSense AI v11.3 (BETA)](myherb-applications/myherb-applications/documentation-for-ecosense-ai-v11.3-beta.md)
-  * [EcoSense App: Driving Sustainability in Software Development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development.md)
-    * [EcoSense EcoSense v3.3 BETA Documentation](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/ecosense-ecosense-v3.3-beta-documentation.md)
-  * [Application Code Generation & Structure](myherb-applications/myherb-applications/application-code-generation-and-structure.md)
-* [EcoPrompts - Sustainability Prompt Bank (Updates)](myherb-applications/ecoprompts-sustainability-prompt-bank-updates.md)
-* [EcoShift – Terms & Conditions](myherb-applications/ecoshift-terms-and-conditions.md)
+* [MyHerb applications](myherb-applications/myherb-applications/README.md)
+  * [EcoSense Device Use advisor](myherb-applications/myherb-applications/ai-sustainability-advisor-ecosense-ai.md)
+  * [EcoPrompts](myherb-applications/myherb-applications/ecoprompts/README.md)
+    * [How to use EcoPrompts](myherb-applications/myherb-applications/ecoprompts/ecoprompts-app-documentation.md)
+  * [SightScope project notes](myherb-applications/myherb-applications/sightscope.md)
+  * [Plan paper use with PrintLess EcoMetrix](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/README.md)
+    * [How to build a paper-use baseline](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/structure-printless-eco-metrics.md)
+    * [PrintLess EcoMetrix v0.13 project notes](myherb-applications/myherb-applications/printless-eco-metrics-your-paper-consumption-sustainability-calculator/printless-ecometrics-update-beta-v0.13.md)
+  * [Sustainability coach concept](myherb-applications/myherb-applications/ai-sustainability-coach.md)
+  * [Trimpact reforestation demo](myherb-applications/myherb-applications/trimpact.md)
+  * [Ec.reDucerr project notes](myherb-applications/myherb-applications/ec.reducerr.md)
+  * [EcoSense Device Use v11.3](myherb-applications/myherb-applications/documentation-for-ecosense-ai-v11.3-beta.md)
+  * [EcoSense development](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development.md)
+    * [EcoSense v3.3 project notes](myherb-applications/myherb-applications/ecosense-app-driving-sustainability-in-software-development/ecosense-ecosense-v3.3-beta-documentation.md)
+  * [Application development notes](myherb-applications/myherb-applications/application-code-generation-and-structure.md)
+* [EcoPrompts updates](myherb-applications/ecoprompts-sustainability-prompt-bank-updates.md)
+* [EcoShift Terms and Conditions](myherb-applications/ecoshift-terms-and-conditions.md)
 
 ## Integrations
 
-* [Shopify + CometChat Integration Technical Documentation](integrations/shopify-+-cometchat-integration-technical-documentation.md)
+* [Shopify and CometChat integration notes](integrations/shopify-+-cometchat-integration-technical-documentation.md)
 
 ## Product Guides
 
-* [Deep Research Analysis: Case Studies of myHerb](product-guides/deep-research-analysis-case-studies-of-myherb.md)
-* [EcoSense - Sustainable Device Usage](product-guides/ecosense-sustainable-device-usage.md)
-* [myAIHerb Sustainability Application](product-guides/myaiherb-sustainability-application.md)
-* [Test the website's sustainability with PageSpeed](product-guides/test-the-websites-sustainability-with-pagespeed.md)
-* [Zapier Integration for Website Sustainability Testing](product-guides/zapier-integration-for-website-sustainability-testing.md)
-* [📑 Features for Sustainable Software Development](product-guides/features-for-sustainable-software-development.md)
-* [TreeWise.io: Trees Planting App development](product-guides/treewise.io-trees-planting-app-development/README.md)
-  * [How do I integrate CleanHub API?](product-guides/treewise.io-trees-planting-app-development/how-do-i-integrate-cleanhub-api.md)
+* [Checking evidence in a sustainability case study](product-guides/deep-research-analysis-case-studies-of-myherb.md)
+* [EcoSense Device Use beta](product-guides/ecosense-sustainable-device-usage.md)
+* [myHerbAI](product-guides/myaiherb-sustainability-application.md)
+* [Use PageSpeed Insights to check a page](product-guides/test-the-websites-sustainability-with-pagespeed.md)
+* [Planning a workflow for repeat website checks](product-guides/zapier-integration-for-website-sustainability-testing.md)
+* [Find unnecessary work in a web page](product-guides/features-for-sustainable-software-development.md)
+* [TreeWise.io project notes](product-guides/treewise.io-trees-planting-app-development/README.md)
+  * [CleanHub integration project notes](product-guides/treewise.io-trees-planting-app-development/how-do-i-integrate-cleanhub-api.md)
 
 ## GitHub
 
-* [A Guide for GitHub Sponsor Buttons Publishing Code Samples](github/a-guide-for-github-sponsor-buttons-publishing-code-samples.md)
+* [Support MyHerb through GitHub Sponsors](github/a-guide-for-github-sponsor-buttons-publishing-code-samples.md)
 
-## Fundamentals
+## Getting started
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [Find a MyHerb tool](fundamentals/getting-set-up/README.md)
+  * [GitHub repository access](fundamentals/getting-set-up/setting-permissions.md)
+  * [Take part in DevSphere discussions](fundamentals/getting-set-up/inviting-members.md)
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [Checking a page after a design change](use-cases/for-designers.md)
+* [Rechecking a website fix](use-cases/for-developers.md)

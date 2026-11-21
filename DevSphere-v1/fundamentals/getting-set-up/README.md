@@ -1,33 +1,3 @@
-# 🛠️ Getting set up
+# Find a MyHerb tool
 
-<details>
-
-<summary>Step1: Creating your organization</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 2: Inviting your team</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 3: Making your first post</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 4: Publishing a post</summary>
-
-
-
-</details>
+Pick a tool from [MyHerb Solutions](https://www.myherb.co.il/solutions). For a first website check, open [WebInSight](https://insight.myherb.co.il/) and enter one page. If you are researching a topic, open [MyHerb Knowledge](https://knowledge.myherb.co.il/) and start with the source links.

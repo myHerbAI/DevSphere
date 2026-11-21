@@ -1,17 +1,8 @@
 # Table of contents
 
-* ```yaml
-  type: builtin:openapi
-  props:
-    models: true
-  dependencies:
-    spec:
-      ref:
-        kind: openapi
-        spec: components
-  ```
+* [Sustainable hosting](sustainable-hosting.md)
 
 ## Automation
 
-* [Make.com: Revolutionizing Workflow Automation](README.md)
-* [Cloudways with myHerb; A Sustainable Hosting Experience](automation/readme.md)
+* [DevSphere on MyHerb](README.md)
+* [Comparing hosting options](automation/readme.md)
